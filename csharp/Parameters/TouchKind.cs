@@ -1,8 +1,8 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    public enum KnownPosition
+    public enum TouchKind
     {
         mouse_pointer,
-        random_position
+        edge
     }
 }

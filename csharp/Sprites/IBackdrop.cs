@@ -1,7 +1,6 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    interface IPen
+    public interface IBackdrop
     {
-
     }
 }

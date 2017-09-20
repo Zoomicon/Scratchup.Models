@@ -1,7 +1,6 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    interface ILooks
+    public interface IKey
     {
-
     }
 }

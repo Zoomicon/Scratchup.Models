@@ -1,7 +1,6 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    interface IControl
+    public interface IColor
     {
-
     }
 }

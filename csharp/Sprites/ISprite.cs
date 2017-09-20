@@ -1,7 +1,6 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    interface IData
+    public interface ISprite
     {
-
     }
 }

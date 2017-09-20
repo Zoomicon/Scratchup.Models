@@ -2,8 +2,8 @@
 {
     public enum RotationStyle
     {
-        left_right = 0,
-        dont_rotate = 1,
-        all_around = 2
+        left_right,
+        dont_rotate,
+        all_around
     }
 }

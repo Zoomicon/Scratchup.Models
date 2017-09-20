@@ -1,6 +1,6 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    interface ISensing
+    interface IScriptOperators
     {
 
     }

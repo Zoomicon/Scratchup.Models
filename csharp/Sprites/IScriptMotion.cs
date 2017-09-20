@@ -1,6 +1,6 @@
 ﻿namespace Scratchup.Models.Actors
 {
-    interface IMotion
+    interface IScriptMotion
     {
         void Move(int steps);
 

@@ -9,9 +9,11 @@
 
         void PointInDirection(int degrees);
         void PointTowards(KnownPosition position); //Scratch 2 v456.0.4 only has "mouse-pointer", not "random position" here as it has in "GoTo"
+        void PointTowards(ISprite sprite);
 
         void GoTo(int x, int y);
         void GoTo(KnownPosition position);
+        void GoTo(ISprite sprite);
 
         void GlideTo(double secs, int x, int y);
 
